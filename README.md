@@ -55,7 +55,7 @@ jupyter-book build --all ./
 git init 
 git remote add origin git@github.com:yourname/today.git
 git add .
-git commit -m "initial commit"
+git commit -m "update"
 git push --set-upstream origin master
 ```
 
